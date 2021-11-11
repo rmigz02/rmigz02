@@ -1,4 +1,4 @@
-Makin' repositories such as:
+Makin' repositories soon:
 
 -> Softwares dedicated to take back control of your Android device (and your dopamine responses too 🤣) when you feel like it "goes out of control"
 
