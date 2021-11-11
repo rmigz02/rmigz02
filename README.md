@@ -4,6 +4,8 @@ Makin' repositories such as:
 
 -> Some Android Debug Bridge based tools with a GUI for those who use repetitive ADB commands
 
+-> A growing list of my own perception of "Android bloat" package names and optional and safe to uninstall Android system packages
+
 -> Test Arduino softwares for some useless sorts of automation but educational (like a bot for dodging the obstacles in T-Rex dinosaur game 🤣)
 
 -> Short ManimCE projects ❤️
