@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @rmigz02
-- 👀 I’m interested in hmm... testing... testing...
-- 🌱 I’m currently learning this thingy just now
-- 💞️ I’m looking to collaborate on probably some user first software development programs
-- 📫 How to reach me ... do a poke
+Makin' repositories such as:
+
+-> Softwares dedicated to take back control of your Android device (and your dopamine responses too 🤣) when you feel like it "goes out of control"
+-> Some Android Debug Bridge based tools with a GUI for those who use repetitive ADB commands
+
+-> Test Arduino softwares for some useless sorts of automation but educational (like a bot for dodging the obstacles in T-Rex dinosaur game 🤣)
+-> Short ManimCE projects ❤️
 
 <!---
 rmigz02/rmigz02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
